@@ -1,7 +1,7 @@
 {
   "app": "Stundenzettel",
-  "version": "1.6.0",
-  "date": "22.10.2026",
-  "notes": "Neu: Krank-Status, Notizen pro Tag, Urlaubskonto, Verdienst- und Minijob-Rechner, Erinnerungen und Update-Prüfung.",
+  "version": "1.7.0",
+  "date": "23.10.2026",
+  "notes": "Neu: Urlaubsübersicht, Notizen vollständig im PDF, Unterschrift über dem Namen, pünktliche Erinnerungen mit Test-Knopf.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
