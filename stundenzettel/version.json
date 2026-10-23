@@ -1,7 +1,7 @@
 {
   "app": "Stundenzettel",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "date": "23.10.2026",
-  "notes": "Neu: Urlaubsübersicht, Notizen vollständig im PDF, Unterschrift über dem Namen, pünktliche Erinnerungen mit Test-Knopf.",
+  "notes": "Neu: Englisches Sprachpaket (Verwaltung → Sprache) / New: English language (Settings → Language).",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
