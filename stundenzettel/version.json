@@ -1,7 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "date": "23.10.2026",
-  "notes": "Neu: Englisches Sprachpaket (Verwaltung → Sprache) / New: English language (Settings → Language).",
+  "notes": "Neu: Rückgängig beim Entfernen eines Tages, Knopf „Heute“, einklappbare Hilfe, kurzes Vibrieren, aufklappbare Verwaltung und Erinnerung an die Datensicherung.",
+  "notes_en": "New: undo when removing a day, “Today” button, collapsible help, short vibration, collapsible settings and backup reminders.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
