@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "date": "23.10.2026",
-  "notes": "Neu: Rückgängig beim Entfernen eines Tages, Knopf „Heute“, einklappbare Hilfe, kurzes Vibrieren, aufklappbare Verwaltung und Erinnerung an die Datensicherung.",
-  "notes_en": "New: undo when removing a day, “Today” button, collapsible help, short vibration, collapsible settings and backup reminders.",
+  "notes": "Neu: Werktage pro Woche (Urlaub nur an Werktagen), Notizen im PDF, App-Sperre mit PIN, Muster oder Fingerabdruck, Einrichtungs-Assistent und Kontaktformular.",
+  "notes_en": "New: working days per week (leave only on working days), notes in the PDF, app lock with PIN, pattern or fingerprint, setup assistant and contact form.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
