@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.11.0",
+  "version": "1.11.3",
   "date": "25.10.2026",
-  "notes": "Neu: mehrere Profile (z. B. Hauptjob und Minijob), erweiterter Modus mit Pausen sowie Früh- und Spätschicht; Urlaub und Verdienst getrennt.",
-  "notes_en": "New: several profiles (e.g. main job and mini job), advanced mode with breaks and early/late shifts; leave and earnings shown separately.",
+  "notes": "Neu: mehrere Profile, erweiterter Modus mit Pausen und Schichten. Außerdem: Kontaktadresse kontakt@altamarcoder.de und aufgeräumte Zeitanzeige.",
+  "notes_en": "New: several profiles, advanced mode with breaks and shifts. Also: contact address kontakt@altamarcoder.de and a tidier time display.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
