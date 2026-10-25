@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.10.0",
-  "date": "23.10.2026",
-  "notes": "Neu: Werktage pro Woche (Urlaub nur an Werktagen), Notizen im PDF, App-Sperre mit PIN, Muster oder Fingerabdruck, Einrichtungs-Assistent und Kontaktformular.",
-  "notes_en": "New: working days per week (leave only on working days), notes in the PDF, app lock with PIN, pattern or fingerprint, setup assistant and contact form.",
+  "version": "1.11.0",
+  "date": "25.10.2026",
+  "notes": "Neu: mehrere Profile (z. B. Hauptjob und Minijob), erweiterter Modus mit Pausen sowie Früh- und Spätschicht; Urlaub und Verdienst getrennt.",
+  "notes_en": "New: several profiles (e.g. main job and mini job), advanced mode with breaks and early/late shifts; leave and earnings shown separately.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
