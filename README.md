@@ -13,7 +13,7 @@
 
 ### 📱 Projekte
 
-**Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 1.13.1 · Deutsch & English
+**Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 1.13.2 · Deutsch & English
 - Arbeitstage antippen, Beginn (und wahlweise Ende) eintragen – die Stunden werden berechnet
 - Urlaub, Krank und Notizen pro Tag; Feiertage aller Bundesländer, Wochenende zuschaltbar
 - Urlaubsübersicht, Urlaubskonto, Verdienstrechner und Minijob-Prüfung

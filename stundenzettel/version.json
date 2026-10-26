@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.13.1",
+  "version": "1.13.2",
   "date": "26.10.2026",
-  "notes": "Neu: Feiertage einzeilig, Urlaub und Krank auch am Wochenende, alle Tage eingeklappt (Tipp auf die Uhrzeit öffnet), Hilfe wieder einklappbar, Verwaltung neu sortiert.",
-  "notes_en": "New: holidays on one line, leave and sick also on weekends, all days collapsed (tap the time to open), help can be collapsed again, settings reordered.",
+  "notes": "Neu: Verwaltung startet eingeklappt, „Ich arbeite auch an Samstagen/Sonntagen/Feiertagen“, Urlaub nur an Werktagen, Krank auch am Wochenende und an Feiertagen.",
+  "notes_en": "New: settings open collapsed, “I also work on Saturdays/Sundays/holidays”, leave only on working days, sick days also on weekends and holidays.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
