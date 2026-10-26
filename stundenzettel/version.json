@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "date": "26.10.2026",
-  "notes": "Neu: Früh-, Spät- und Nachtschicht mit Pausen, Stundenkonto mit Wochenstunden, XML-Generator für den Arbeitgeber, Designs Rosé und Carbon, Datenschutzerklärung.",
-  "notes_en": "New: early, late and night shifts with breaks, hours account with weekly hours, XML generator for your employer, Rosé and Carbon designs, privacy policy.",
+  "notes": "Neu: Werkseinstellungen mit Sicherheitsabfrage, aufgeräumte Verwaltung, kompaktes Zeitfeld – nur der heutige Tag ist aufgeklappt.",
+  "notes_en": "New: factory reset with safety check, tidier settings, compact time panel – only today is expanded.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
