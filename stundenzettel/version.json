@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.13.2",
+  "version": "1.14.0",
   "date": "26.10.2026",
-  "notes": "Neu: Verwaltung startet eingeklappt, „Ich arbeite auch an Samstagen/Sonntagen/Feiertagen“, Urlaub nur an Werktagen, Krank auch am Wochenende und an Feiertagen.",
-  "notes_en": "New: settings open collapsed, “I also work on Saturdays/Sundays/holidays”, leave only on working days, sick days also on weekends and holidays.",
+  "notes": "Neu: Schichtplan für Schichtdienst mit Soll/Ist/Saldo, Schichtplan in den Kalender eintragen oder teilen (private Termine), „+ Tag“ für einzelne Zusatztage, Verwaltung in 11 Rubriken.",
+  "notes_en": "New: shift plan for shift work with target/actual/balance, add the shift plan to your calendar or share it (private events), “+ Day” for single extra days, settings in 11 sections.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
