@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.15.2",
+  "version": "1.16.0",
   "date": "26.10.2026",
-  "notes": "Neu: Urlaub im Schichtplan, Schichtplan in den Kalender eintragen oder teilen. Die Play-Protect-Warnung sollte nicht mehr erscheinen.",
-  "notes_en": "New: leave in the shift plan, add the shift plan to your calendar or share it. The Play Protect warning should no longer appear.",
+  "notes": "Neu: PDF im Schichtdienst mit Soll, Ist, Differenz und Saldo pro Tag und in Summe. Fehler bei eigener Planzeit behoben.",
+  "notes_en": "New: shift-plan PDF with target, actual, difference and balance per day and in total. Fixed custom plan times.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
