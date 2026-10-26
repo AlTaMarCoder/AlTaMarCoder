@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.13.0",
+  "version": "1.13.1",
   "date": "26.10.2026",
-  "notes": "Neu: Werkseinstellungen mit Sicherheitsabfrage, aufgeräumte Verwaltung, kompaktes Zeitfeld – nur der heutige Tag ist aufgeklappt.",
-  "notes_en": "New: factory reset with safety check, tidier settings, compact time panel – only today is expanded.",
+  "notes": "Neu: Feiertage einzeilig, Urlaub und Krank auch am Wochenende, alle Tage eingeklappt (Tipp auf die Uhrzeit öffnet), Hilfe wieder einklappbar, Verwaltung neu sortiert.",
+  "notes_en": "New: holidays on one line, leave and sick also on weekends, all days collapsed (tap the time to open), help can be collapsed again, settings reordered.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
