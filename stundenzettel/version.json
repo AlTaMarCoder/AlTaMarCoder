@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.14.0",
+  "version": "1.15.1",
   "date": "26.10.2026",
-  "notes": "Neu: Schichtplan für Schichtdienst mit Soll/Ist/Saldo, Schichtplan in den Kalender eintragen oder teilen (private Termine), „+ Tag“ für einzelne Zusatztage, Verwaltung in 11 Rubriken.",
-  "notes_en": "New: shift plan for shift work with target/actual/balance, add the shift plan to your calendar or share it (private events), “+ Day” for single extra days, settings in 11 sections.",
+  "notes": "Neu: Urlaub im Schichtplan, Updates direkt in der App installieren (sobald verfügbar), Schichtplan in den Kalender eintragen oder teilen.",
+  "notes_en": "New: leave in the shift plan, install updates directly in the app (when available), add the shift plan to your calendar or share it.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
