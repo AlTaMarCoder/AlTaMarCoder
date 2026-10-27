@@ -13,7 +13,7 @@
 
 ### 📱 Projekte
 
-**Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 2.0.0 · Deutsch, English, Polski, Română, Українська, Русский
+**Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 2.0.1 · Deutsch, English, Polski, Română, Українська, Русский
 - Arbeitstage antippen, Schichten mit Pausen und eigenen Kürzeln (z. B. F1, S5)
 - Schichtplan je Monat mit Soll, Ist und Saldo – auch rückwirkend, Excel-Import und -Export
 - Urlaub, Krank, Urlaubsplan fürs Jahr, Feiertage aller Bundesländer

@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "date": "27.10.2026",
-  "notes": "Wichtig: 2.0.0 installiert sich als neue App neben der alten. Vorher in der alten App unter Verwaltung → Daten sichern „Sicherung teilen“, in der neuen „Sicherung laden“, dann die alte App deinstallieren. Neu: Android 15, eigene Schichtkürzel, Design-Dateien (laden, erstellen, teilen), Sprachen Polnisch, Rumänisch, Ukrainisch, Russisch, Assistent fragt zuerst nach dem Schichtplan.",
-  "notes_en": "Important: 2.0.0 installs as a new app next to the old one. In the old app use Settings → Back up data → “Share backup”, in the new app “Load backup”, then uninstall the old app. New: Android 15, own shift codes, design files (load, create, share), Polish, Romanian, Ukrainian and Russian, setup asks about shift plans first.",
+  "notes": "Korrektur: Design-Dateien, Sicherungen und Excel-Dateien lassen sich jetzt immer auswählen. Assistent: bei Schichtplan keine Frage nach Sonntagen/Feiertagen. Wer noch die alte App nutzt: 2.0 installiert sich als neue App – vorher „Sicherung teilen“, in der neuen App „Sicherung laden“.",
+  "notes_en": "Fix: design files, backups and Excel files can always be selected. Setup: no Sunday/holiday question with a shift plan. Still on the old app? 2.0 installs as a new app – “Share backup” first, then “Load backup” in the new app.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
