@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.16.0",
-  "date": "26.10.2026",
-  "notes": "Neu: PDF im Schichtdienst mit Soll, Ist, Differenz und Saldo pro Tag und in Summe. Fehler bei eigener Planzeit behoben.",
-  "notes_en": "New: shift-plan PDF with target, actual, difference and balance per day and in total. Fixed custom plan times.",
+  "version": "1.18.0",
+  "date": "27.10.2026",
+  "notes": "Neu: Sollzeit im PDF (Soll, Ist, Differenz, Saldo), Monatsdaten als Excel exportieren und importieren, Urlaubsplan fürs Jahr, Schichtplan für jeden Monat.",
+  "notes_en": "New: target time in the PDF (target, actual, difference, balance), monthly data as Excel export/import, yearly leave plan, shift plan for any month.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
