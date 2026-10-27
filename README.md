@@ -14,12 +14,14 @@
 ### 📱 Projekte
 
 **Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 1.18.0 · Deutsch & English
-- Arbeitstage antippen, Beginn (und wahlweise Ende) eintragen – die Stunden werden berechnet
-- Urlaub, Krank und Notizen pro Tag; Feiertage aller Bundesländer, Wochenende zuschaltbar
-- Urlaubsübersicht, Urlaubskonto, Verdienstrechner und Minijob-Prüfung
-- Unterschrift mit dem Finger, PDF-Stundenzettel, Versand per E-Mail mit Anhang
-- Erinnerungen: „Heute gearbeitet?“ mit Ein-Tipp-Eintrag und Hinweis zum Monatsende
-- Alle Daten bleiben nur auf dem Handy
+- Arbeitstage antippen, Schichten mit Pausen und eigenen Kürzeln (z. B. F1, S5)
+- Schichtplan je Monat mit Soll, Ist und Saldo – auch rückwirkend, Excel-Import und -Export
+- Urlaub, Krank, Urlaubsplan fürs Jahr, Feiertage aller Bundesländer
+- Stundenkonto, Verdienstrechner und Minijob-Prüfung, mehrere Profile für mehrere Jobs
+- Unterschrift mit dem Finger, PDF-Stundenzettel, Versand per E-Mail, Schichtplan in den Kalender
+- Alle Daten bleiben nur auf dem Handy – ohne Konto, Werbung und Tracking
+
+→ [Alle Funktionen im Überblick](stundenzettel/README.md)
 
 ---
 
