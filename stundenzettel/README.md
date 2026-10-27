@@ -6,7 +6,7 @@ als PDF per E-Mail verschicken. Gedacht für Beschäftigte in **Pflege, Reinigun
 für **Minijobber**, **Teilzeit** und **Schichtdienst** – alle, die ihre Stunden selbst nachweisen oder
 die Abrechnung des Arbeitgebers nachprüfen möchten.
 
-Entwickler: **AlTaMarCoder** · Sprachen: Deutsch und Englisch · ohne Konto, ohne Werbung, ohne Tracking
+Entwickler: **AlTaMarCoder** · Sprachen: Deutsch, Englisch, Polnisch, Rumänisch, Ukrainisch, Russisch · ohne Konto, ohne Werbung, ohne Tracking
 
 ---
 
@@ -44,7 +44,7 @@ Entwickler: **AlTaMarCoder** · Sprachen: Deutsch und Englisch · ohne Konto, oh
 
 ### Für mehrere Jobs
 - **Mehrere Profile** (z. B. Hauptjob und Minijob) mit eigenen Einstellungen, Schichten und Designs
-- Verschiedene **Designs**, hell und dunkel
+- Verschiedene **Designs**, hell und dunkel – eigene Designs selbst erstellen, als Datei laden und teilen
 
 ### Datenschutz und Sicherheit
 - **Alle Daten bleiben auf dem Handy** – kein Server, kein Konto, keine Werbung, kein Tracking
@@ -53,7 +53,8 @@ Entwickler: **AlTaMarCoder** · Sprachen: Deutsch und Englisch · ohne Konto, oh
 - Einzige Internetverbindung: eine abschaltbare Prüfung auf neue Versionen
 
 ### Bedienung
-- Einrichtungs-Assistent beim ersten Start
+- Einrichtungs-Assistent beim ersten Start (Schichtdienst mit Schichtplan oder feste Arbeitszeit)
+- Oberfläche auf Deutsch, Englisch, Polnisch, Rumänisch, Ukrainisch oder Russisch – Stundenzettel für den Arbeitgeber bleiben dabei Deutsch
 - Erinnerungen „Heute gearbeitet?“ und zum Monatsende
 - Folgt der Schriftgröße des Handys, Kontraste nach WCAG 2 AA geprüft
 
@@ -71,7 +72,7 @@ Abrechnung des Arbeitgebers. Maßgeblich sind Arbeitsvertrag, Tarifvertrag und G
 **Stundenzettel** (timesheet) is a free Android app to record working hours, shifts, breaks, leave and sick days,
 sign with your finger and send a PDF timesheet by email. Features: shift plans per month with target/actual/balance,
 own shift codes, Excel import/export, calendar export, yearly leave plan, public holidays of all German states,
-hours account, earnings and mini-job check, multiple profiles, app lock. All data stays on the phone –
+hours account, earnings and mini-job check, multiple profiles, own designs (create, load, share), app lock. User interface in German, English, Polish, Romanian, Ukrainian or Russian. All data stays on the phone –
 no account, no ads, no tracking. Not legal advice.
 
 ---

@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "1.18.0",
+  "version": "2.0.0",
   "date": "27.10.2026",
-  "notes": "Neu: Sollzeit im PDF (Soll, Ist, Differenz, Saldo), Monatsdaten als Excel exportieren und importieren, Urlaubsplan fürs Jahr, Schichtplan für jeden Monat.",
-  "notes_en": "New: target time in the PDF (target, actual, difference, balance), monthly data as Excel export/import, yearly leave plan, shift plan for any month.",
+  "notes": "Wichtig: 2.0.0 installiert sich als neue App neben der alten. Vorher in der alten App unter Verwaltung → Daten sichern „Sicherung teilen“, in der neuen „Sicherung laden“, dann die alte App deinstallieren. Neu: Android 15, eigene Schichtkürzel, Design-Dateien (laden, erstellen, teilen), Sprachen Polnisch, Rumänisch, Ukrainisch, Russisch, Assistent fragt zuerst nach dem Schichtplan.",
+  "notes_en": "Important: 2.0.0 installs as a new app next to the old one. In the old app use Settings → Back up data → “Share backup”, in the new app “Load backup”, then uninstall the old app. New: Android 15, own shift codes, design files (load, create, share), Polish, Romanian, Ukrainian and Russian, setup asks about shift plans first.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
