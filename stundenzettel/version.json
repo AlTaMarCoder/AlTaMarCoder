@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.0.1",
-  "date": "27.10.2026",
-  "notes": "Korrektur: Design-Dateien, Sicherungen und Excel-Dateien lassen sich jetzt immer auswählen. Assistent: bei Schichtplan keine Frage nach Sonntagen/Feiertagen. Wer noch die alte App nutzt: 2.0 installiert sich als neue App – vorher „Sicherung teilen“, in der neuen App „Sicherung laden“.",
-  "notes_en": "Fix: design files, backups and Excel files can always be selected. Setup: no Sunday/holiday question with a shift plan. Still on the old app? 2.0 installs as a new app – “Share backup” first, then “Load backup” in the new app.",
+  "version": "2.0.2",
+  "date": "28.10.2026",
+  "notes": "Neu: Design-Dateien direkt aus WhatsApp oder dem Dateimanager „mit Stundenzettel öffnen“, Design-Code zum Einfügen, Dateiauswahl zeigt alle Dateien, Urheberrecht in der Datenschutzerklärung. Wer noch die alte App nutzt: 2.0 installiert sich als neue App – vorher „Sicherung teilen“, in der neuen App „Sicherung laden“.",
+  "notes_en": "New: open design files directly from WhatsApp or the file manager, paste design codes, file picker shows all files, copyright section in the privacy policy. Still on the old app? 2.0 installs as a new app – “Share backup” first, then “Load backup” in the new app.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
