@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "date": "30.10.2026",
-  "notes": "Neu: Jahresübersicht mit Diagramm und Abgleich mit der Lohnabrechnung, Zuschläge (Nacht, Sonntag, Feiertag), Ruhezeit-Warnung, Checkliste vor dem Monatsabschluss, Suche in der Verwaltung, Widget „Heute“ für den Startbildschirm, Feiertage auf Wunsch wie beim Arbeitgeber (Soll verringern).",
-  "notes_en": "New: year overview with chart and payslip comparison, premium hours (night, Sunday, holiday), rest period warning, checklist before closing a month, search in settings, home screen widget “Today”, optional: holidays reduce the target like many employers do.",
+  "notes": "Die automatische Datenkopie im Ordner Download/Stundenzettel heißt jetzt Stundenzettel_Automatische_Sicherung.json. Keine Flut von nummerierten Kopien mehr – alte Kopien räumt die App selbst auf. Dazu alles aus 2.1.0: Jahresübersicht, Zuschläge, Ruhezeit-Warnung, Checkliste, Suche in der Verwaltung, Widget „Heute“.",
+  "notes_en": "The automatic data copy in Download/Stundenzettel is now called Stundenzettel_Automatische_Sicherung.json; no more pile of numbered copies. Plus everything from 2.1.0: year overview, premium hours, rest period warning, checklist, settings search, home screen widget.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
