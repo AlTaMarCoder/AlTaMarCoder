@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.0.2",
-  "date": "28.10.2026",
-  "notes": "Neu: Design-Dateien direkt aus WhatsApp oder dem Dateimanager „mit Stundenzettel öffnen“, Design-Code zum Einfügen, Dateiauswahl zeigt alle Dateien, Urheberrecht in der Datenschutzerklärung. Wer noch die alte App nutzt: 2.0 installiert sich als neue App – vorher „Sicherung teilen“, in der neuen App „Sicherung laden“.",
-  "notes_en": "New: open design files directly from WhatsApp or the file manager, paste design codes, file picker shows all files, copyright section in the privacy policy. Still on the old app? 2.0 installs as a new app – “Share backup” first, then “Load backup” in the new app.",
+  "version": "2.1.0",
+  "date": "30.10.2026",
+  "notes": "Neu: Jahresübersicht mit Diagramm und Abgleich mit der Lohnabrechnung, Zuschläge (Nacht, Sonntag, Feiertag), Ruhezeit-Warnung, Checkliste vor dem Monatsabschluss, Suche in der Verwaltung, Widget „Heute“ für den Startbildschirm, Feiertage auf Wunsch wie beim Arbeitgeber (Soll verringern).",
+  "notes_en": "New: year overview with chart and payslip comparison, premium hours (night, Sunday, holiday), rest period warning, checklist before closing a month, search in settings, home screen widget “Today”, optional: holidays reduce the target like many employers do.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }

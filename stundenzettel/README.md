@@ -55,7 +55,8 @@ Entwickler: **AlTaMarCoder** · Sprachen: Deutsch, Englisch, Polnisch, Rumänisc
 ### Bedienung
 - Einrichtungs-Assistent beim ersten Start (Schichtdienst mit Schichtplan oder feste Arbeitszeit)
 - Oberfläche auf Deutsch, Englisch, Polnisch, Rumänisch, Ukrainisch oder Russisch – Stundenzettel für den Arbeitgeber bleiben dabei Deutsch
-- Erinnerungen „Heute gearbeitet?“ und zum Monatsende
+- Erinnerungen „Heute gearbeitet?“ und zum Monatsende, Widget „Heute“ für den Startbildschirm
+- Jahresübersicht mit Diagramm, Abgleich mit der Lohnabrechnung, Zuschläge (Nacht, Sonntag, Feiertag) und Ruhezeit-Warnung
 - Folgt der Schriftgröße des Handys, Kontraste nach WCAG 2 AA geprüft
 
 ---
