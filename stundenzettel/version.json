@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "date": "30.10.2026",
-  "notes": "Neu: Profil exportieren und importieren – alle Einstellungen eines Arbeitgebers (Arbeitszeiten, Schichten, Schichtpläne, Verdienst, Design, Logo) als Datei übertragen, z. B. nach einer Neuinstallation oder auf ein anderes Handy. Dazu: Erklärung im XML-Generator, überarbeitete Datenschutzerklärung und Urheberrecht.",
-  "notes_en": "New: export and import a profile – transfer all settings of an employer (working hours, shifts, shift plans, earnings, design, logo) as a file, e.g. after reinstalling or to another phone. Plus: explanation in the XML generator, revised privacy policy and copyright section.",
+  "notes": "Die Vorschau des Zettels zeigt jetzt auch Soll, Ist, Differenz und Saldo, wenn „Sollzeit beim PDF-Export anzeigen“ angehakt ist. Dazu aus 2.2.0: Profil exportieren und importieren.",
+  "notes_en": "The in-app preview now shows target, actual, difference and balance when “Show target time in PDF” is ticked. Plus from 2.2.0: export and import a profile.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
