@@ -44,6 +44,7 @@ Entwickler: **AlTaMarCoder** · Sprachen: Deutsch, Englisch, Polnisch, Rumänisc
 
 ### Für mehrere Jobs
 - **Mehrere Profile** (z. B. Hauptjob und Minijob) mit eigenen Einstellungen, Schichten und Designs
+- Profil exportieren und importieren – Einstellungen einfach aufs neue Handy übertragen
 - Verschiedene **Designs**, hell und dunkel – eigene Designs selbst erstellen, als Datei laden und teilen
 
 ### Datenschutz und Sicherheit

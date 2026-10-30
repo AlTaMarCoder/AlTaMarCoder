@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "date": "30.10.2026",
-  "notes": "Die automatische Datenkopie im Ordner Download/Stundenzettel heißt jetzt Stundenzettel_Automatische_Sicherung.json. Keine Flut von nummerierten Kopien mehr – alte Kopien räumt die App selbst auf. Dazu alles aus 2.1.0: Jahresübersicht, Zuschläge, Ruhezeit-Warnung, Checkliste, Suche in der Verwaltung, Widget „Heute“.",
-  "notes_en": "The automatic data copy in Download/Stundenzettel is now called Stundenzettel_Automatische_Sicherung.json; no more pile of numbered copies. Plus everything from 2.1.0: year overview, premium hours, rest period warning, checklist, settings search, home screen widget.",
+  "notes": "Neu: Profil exportieren und importieren – alle Einstellungen eines Arbeitgebers (Arbeitszeiten, Schichten, Schichtpläne, Verdienst, Design, Logo) als Datei übertragen, z. B. nach einer Neuinstallation oder auf ein anderes Handy. Dazu: Erklärung im XML-Generator, überarbeitete Datenschutzerklärung und Urheberrecht.",
+  "notes_en": "New: export and import a profile – transfer all settings of an employer (working hours, shifts, shift plans, earnings, design, logo) as a file, e.g. after reinstalling or to another phone. Plus: explanation in the XML generator, revised privacy policy and copyright section.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
