@@ -16,15 +16,24 @@ Entwickler: **AlTaMarCoder** · Sprachen: Deutsch, Englisch, Polnisch, Rumänisc
 auf deinem Handy und kannst jede Abrechnung nachprüfen. Am Monatsende liegt ein unterschriebener Stundenzettel als PDF
 im Postfach des Lohnbüros.
 
+**Für jedes Arbeitszeitmodell geeignet:**
+- **Feste Arbeitszeit:** Wer normal in der Woche arbeitet – z. B. Montag bis Freitag 08:00–16:30 oder an jedem Wochentag
+  mit eigener Zeit (Wochenplan).
+- **Schichtarbeit:** Früh-, Spät- und Nachtschicht nach Dienstplan, mit Schichtkürzeln (F1, S5 …), Schichtplan aus Excel
+  und Soll/Ist-Abgleich – z. B. in Pflege, Produktion, Gastronomie oder Reinigung.
+- **Minijob und Aushilfe:** ohne vorgegebene Planzeiten einfach die gearbeiteten Tage eintragen, mit Verdienstrechner
+  und Prüfung der Minijob-Grenze.
+
+Die App fragt bei der Einrichtung, wie du arbeitest, und zeigt danach nur, was du dafür brauchst.
+
+**Was sie auszeichnet:**
 - **In Sekunden erfasst:** Arbeitstag antippen – fertig. Beginn, Ende, Pause und Stunden setzt die App aus deinem Plan.
-- **Passt sich deiner Arbeit an:** Wochenplan, Schichtdienst mit Schichtplan oder ohne vorgegebene Planzeiten –
-  die App zeigt nur, was du dafür brauchst.
 - **Soll gegen Ist:** Monats-Soll, Stundenkonto und Jahresübersicht mit Übertrag aus dem Vorjahr – zum Abgleich mit
   der Lohnabrechnung. Abweichungen vom Schichtplan werden automatisch als Notiz festgehalten.
 - **Schichtplan aus Excel:** Dienstplan importieren, mit Kollegen teilen und als Termine in den Kalender übernehmen.
 - **Fertig zum Abgeben:** mit dem Finger unterschreiben, PDF per E-Mail senden – auf Wunsch mit XML-Datei für das
   Lohnsystem des Arbeitgebers.
-- **Mehrere Jobs:** eigene Profile für Hauptjob und Minijob, mit Minijob-Grenze und Verdienstrechner.
+- **Mehrere Jobs gleichzeitig:** eigene Profile, z. B. Hauptjob im Schichtdienst und Minijob nebenher.
 - **Privat:** alle Daten bleiben auf dem Handy – kein Konto, keine Cloud, keine Werbung, kein Tracking.
 - **Sechs Sprachen:** Deutsch, English, Polski, Română, Українська, Русский.
 
