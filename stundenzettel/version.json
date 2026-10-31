@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.2.1",
-  "date": "30.10.2026",
-  "notes": "Die Vorschau des Zettels zeigt jetzt auch Soll, Ist, Differenz und Saldo, wenn „Sollzeit beim PDF-Export anzeigen“ angehakt ist. Dazu aus 2.2.0: Profil exportieren und importieren.",
-  "notes_en": "The in-app preview now shows target, actual, difference and balance when “Show target time in PDF” is ticked. Plus from 2.2.0: export and import a profile.",
+  "version": "2.2.2",
+  "date": "31.10.2026",
+  "notes": "Neu: Erinnerungen je Profil („Heute bei „Minijob“ gearbeitet?“, Antippen öffnet das richtige Profil), Excel-Schichtpläne direkt aus WhatsApp mit Stundenzettel öffnen, Spalte „Schicht“ mit F1, S5, U, K, X im Stundenzettel und PDF.",
+  "notes_en": "New: reminders per profile, open Excel shift plans directly from WhatsApp, shift column (F1, S5, U, K, X) in the timesheet and PDF.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
