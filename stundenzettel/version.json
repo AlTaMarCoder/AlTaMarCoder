@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.2.3",
+  "version": "2.3.0",
   "date": "31.10.2026",
-  "notes": "Neu: Wochenplan mit eigener Arbeitszeit je Wochentag, Soll aus dem Vertrag statt aus dem Schichtplan, Übertrag aus dem Vorjahr, Stunden mit zwei Nachkommastellen (7,00), Kürzel in der Tagesliste („Spät (S5)“, „Urlaub (U)“), eigene Kürzel für Urlaub, krank und frei.",
-  "notes_en": "New: weekly plan with own hours per weekday, target from the contract instead of the shift plan, carry-over from last year, hours with two decimals, codes in the day list, own codes for leave, sick and day off.",
+  "notes": "Neu: „Wie arbeitest du?“ ganz oben in der Verwaltung (Wochenplan, Schichtdienst oder ohne vorgegebene Planzeiten) – die Verwaltung zeigt nur noch, was passt. Automatische Notiz „Schichtwechsel von … auf …“, geteilter Schichtplan blockiert keinen Kalender, geplante Schicht schon vorher sichtbar („Früh (F1)“).",
+  "notes_en": "New: “How do you work?” at the top of Settings (weekly schedule, shift work or no planned times) – Settings only shows what fits. Automatic “shift change” note, a shared shift plan never blocks the recipient’s calendar, planned shifts visible in advance.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
