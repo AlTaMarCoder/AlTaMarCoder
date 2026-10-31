@@ -10,6 +10,26 @@ Entwickler: **AlTaMarCoder** · Sprachen: Deutsch, Englisch, Polnisch, Rumänisc
 
 ---
 
+## Auf einen Blick
+
+**Dein eigener Stundennachweis – nicht der deines Arbeitgebers.** Du erfasst deine Zeiten selbst, behältst die Daten
+auf deinem Handy und kannst jede Abrechnung nachprüfen. Am Monatsende liegt ein unterschriebener Stundenzettel als PDF
+im Postfach des Lohnbüros.
+
+- **In Sekunden erfasst:** Arbeitstag antippen – fertig. Beginn, Ende, Pause und Stunden setzt die App aus deinem Plan.
+- **Passt sich deiner Arbeit an:** Wochenplan, Schichtdienst mit Schichtplan oder ohne vorgegebene Planzeiten –
+  die App zeigt nur, was du dafür brauchst.
+- **Soll gegen Ist:** Monats-Soll, Stundenkonto und Jahresübersicht mit Übertrag aus dem Vorjahr – zum Abgleich mit
+  der Lohnabrechnung. Abweichungen vom Schichtplan werden automatisch als Notiz festgehalten.
+- **Schichtplan aus Excel:** Dienstplan importieren, mit Kollegen teilen und als Termine in den Kalender übernehmen.
+- **Fertig zum Abgeben:** mit dem Finger unterschreiben, PDF per E-Mail senden – auf Wunsch mit XML-Datei für das
+  Lohnsystem des Arbeitgebers.
+- **Mehrere Jobs:** eigene Profile für Hauptjob und Minijob, mit Minijob-Grenze und Verdienstrechner.
+- **Privat:** alle Daten bleiben auf dem Handy – kein Konto, keine Cloud, keine Werbung, kein Tracking.
+- **Sechs Sprachen:** Deutsch, English, Polski, Română, Українська, Русский.
+
+---
+
 ## Kernfunktionen
 
 ### Arbeitszeit erfassen
