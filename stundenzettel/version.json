@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "date": "31.10.2026",
-  "notes": "Neu: Erinnerungen je Profil („Heute bei „Minijob“ gearbeitet?“, Antippen öffnet das richtige Profil), Excel-Schichtpläne direkt aus WhatsApp mit Stundenzettel öffnen, Spalte „Schicht“ mit F1, S5, U, K, X im Stundenzettel und PDF.",
-  "notes_en": "New: reminders per profile, open Excel shift plans directly from WhatsApp, shift column (F1, S5, U, K, X) in the timesheet and PDF.",
+  "notes": "Neu: Wochenplan mit eigener Arbeitszeit je Wochentag, Soll aus dem Vertrag statt aus dem Schichtplan, Übertrag aus dem Vorjahr, Stunden mit zwei Nachkommastellen (7,00), Kürzel in der Tagesliste („Spät (S5)“, „Urlaub (U)“), eigene Kürzel für Urlaub, krank und frei.",
+  "notes_en": "New: weekly plan with own hours per weekday, target from the contract instead of the shift plan, carry-over from last year, hours with two decimals, codes in the day list, own codes for leave, sick and day off.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
