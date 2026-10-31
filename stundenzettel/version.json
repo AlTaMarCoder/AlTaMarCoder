@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "date": "31.10.2026",
-  "notes": "Neu: Rückfrage beim Wechsel der Arbeitsweise mit Hinweis, was sich ändert – es wird nichts gelöscht, beim Zurückwechseln ist alles wieder da. Dazu aus 2.3.0: „Wie arbeitest du?“ ganz oben in der Verwaltung, automatische Notiz bei Schichtwechsel, geteilter Schichtplan blockiert keinen Kalender.",
-  "notes_en": "New: confirmation when changing the way you work, explaining the effects – nothing is deleted and switching back restores everything. Also from 2.3.0: “How do you work?” at the top of Settings, automatic shift-change note, shared shift plan never blocks a calendar.",
+  "notes": "Neu: Adresse des Arbeitgebers je Profil – auch per „Teilen“ aus Google Maps übernehmen. Standort des Arbeitsplatzes speichern (nur auf Knopfdruck). Tagesliste immer zweizeilig. Datenschutzerklärung und Urheberrecht ergänzt.",
+  "notes_en": "New: employer address per profile – also taken over by sharing a place from Google Maps. Save the workplace location (only on tap). Day list always on two lines. Privacy policy and copyright notice extended.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }

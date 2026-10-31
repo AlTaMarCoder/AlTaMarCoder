@@ -13,7 +13,7 @@
 
 ### 📱 Projekte
 
-**Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 2.3.1 · Deutsch, English, Polski, Română, Українська, Русский
+**Stundenzettel** – monatlicher Stundennachweis fürs Android-Handy · Version 2.4.0 · Deutsch, English, Polski, Română, Українська, Русский
 - Für jedes Arbeitszeitmodell: feste Wochenarbeitszeit, Schichtarbeit oder Minijob
 - Arbeitstage antippen, Schichten mit Pausen und eigenen Kürzeln (z. B. F1, S5)
 - Schichtplan je Monat mit Soll, Ist und Saldo – auch rückwirkend, Excel-Import und -Export
@@ -22,7 +22,7 @@
 - Unterschrift mit dem Finger, PDF-Stundenzettel, Versand per E-Mail, Schichtplan in den Kalender
 - Alle Daten bleiben nur auf dem Handy – ohne Konto, Werbung und Tracking
 
-→ [Alle Funktionen im Überblick](stundenzettel/README.md)
+→ [Alle Funktionen im Überblick](stundenzettel/README.md) · [Datenschutzerklärung](stundenzettel/datenschutz.md)
 
 ---
 
