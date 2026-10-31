@@ -1,8 +1,8 @@
 {
   "app": "Stundenzettel",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "date": "31.10.2026",
-  "notes": "Neu: „Wie arbeitest du?“ ganz oben in der Verwaltung (Wochenplan, Schichtdienst oder ohne vorgegebene Planzeiten) – die Verwaltung zeigt nur noch, was passt. Automatische Notiz „Schichtwechsel von … auf …“, geteilter Schichtplan blockiert keinen Kalender, geplante Schicht schon vorher sichtbar („Früh (F1)“).",
-  "notes_en": "New: “How do you work?” at the top of Settings (weekly schedule, shift work or no planned times) – Settings only shows what fits. Automatic “shift change” note, a shared shift plan never blocks the recipient’s calendar, planned shifts visible in advance.",
+  "notes": "Neu: Rückfrage beim Wechsel der Arbeitsweise mit Hinweis, was sich ändert – es wird nichts gelöscht, beim Zurückwechseln ist alles wieder da. Dazu aus 2.3.0: „Wie arbeitest du?“ ganz oben in der Verwaltung, automatische Notiz bei Schichtwechsel, geteilter Schichtplan blockiert keinen Kalender.",
+  "notes_en": "New: confirmation when changing the way you work, explaining the effects – nothing is deleted and switching back restores everything. Also from 2.3.0: “How do you work?” at the top of Settings, automatic shift-change note, shared shift plan never blocks a calendar.",
   "url": "https://github.com/AlTaMarCoder/Stundenzettel/releases/latest"
 }
